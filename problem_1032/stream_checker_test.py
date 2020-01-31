@@ -149,7 +149,7 @@ class MyTestCase(unittest.TestCase):
                                         "babaaababbaaaababbaabbbbbaabaababbbaabaabababababababbabaabaababbaababaabbabbbbbbaaababaabb",
                                         "bbbaaababbabbbababaaabbaabbbaabababbbabbbbbbbbabaaaaa"])
 
-        with open('stream_checker_test_4_query.json') as f:
+        with open('stream_checker_test_4.json') as f:
             res = json.load(f)
 
         for i, item in enumerate(res['query']):

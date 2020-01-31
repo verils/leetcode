@@ -3,6 +3,7 @@ from problem_115.solution import Solution
 
 # 递归法
 class RecursionSolution(Solution):
+
     def num_distinct(self, s: str, t: str) -> int:
         return self._num_distinct(s, 0, t, 0, {})
 

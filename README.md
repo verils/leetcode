@@ -1,2 +1,5 @@
 # leetcode
-A LeetCode practice repo
+A LeetCode practicing repo
+
+### Why Python?
+Hmmmm, nobody would complain his hair too much.

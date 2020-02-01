@@ -1,2 +1,2 @@
 # leetcode
-A LeetCode sample code repo
+A LeetCode practice repo
